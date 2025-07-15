@@ -1,0 +1,101 @@
+Date,Name of Customer,Region,State,City,Product Name,Quantity,Price per Unit,Amount
+10-04-2024,Sachin Desai,North,Delhi,New Delhi,Mobile Phone,9,15937,143433
+11-12-2024,Manoj Kumar,North,Uttar Pradesh,Lucknow,Tablet,8,22365,178920
+24-06-2024,Rahul Mehta,North,Delhi,New Delhi,Printer,3,7568,22704
+05-05-2024,Rahul Mehta,South,Tamil Nadu,Chennai,Mobile Phone,9,15125,136125
+01-07-2024,Ananya Iyer,West,Rajasthan,Jaipur,Headphones,8,1562,12496
+31-03-2024,Ritika Sharma,West,Gujarat,Ahmedabad,Monitor,4,8875,35500
+30-09-2024,Asha Nair,South,Karnataka,Bangalore,Printer,2,7192,14384
+21-05-2024,Priya Sharma,East,Bihar,Patna,Headphones,8,1524,12192
+07-06-2024,Divya Joshi,South,Tamil Nadu,Chennai,Headphones,9,2213,19917
+17-07-2024,Deepak Thakur,South,Tamil Nadu,Chennai,Tablet,1,20827,20827
+21-09-2024,Rohit Jain,East,Odisha,Bhubaneswar,Printer,1,8876,8876
+10-03-2024,Sachin Desai,West,Rajasthan,Jaipur,Tablet,2,23752,47504
+22-03-2024,Manoj Kumar,East,West Bengal,Kolkata,Headphones,10,2012,20120
+11-03-2024,Ananya Iyer,South,Kerala,Kochi,Tablet,7,20426,142982
+06-02-2024,Rahul Mehta,West,Gujarat,Ahmedabad,Mobile Phone,8,14715,117720
+26-06-2024,Sneha Reddy,East,West Bengal,Kolkata,Tablet,5,23311,116555
+25-05-2024,Neha Verma,East,West Bengal,Kolkata,Laptop,10,49826,498260
+04-12-2024,Asha Nair,West,Gujarat,Ahmedabad,Laptop,5,48815,244075
+12-03-2024,Ananya Iyer,East,Odisha,Bhubaneswar,Headphones,4,1771,7084
+12-09-2024,Manoj Kumar,North,Uttar Pradesh,Lucknow,Monitor,5,10608,53040
+05-08-2024,Deepak Thakur,East,West Bengal,Kolkata,Printer,10,9740,97400
+17-11-2024,Karan Malhotra,East,West Bengal,Kolkata,Monitor,5,9526,47630
+15-06-2024,Amit Patel,North,Uttar Pradesh,Lucknow,Monitor,10,11624,116240
+30-01-2024,Deepak Thakur,South,Karnataka,Bangalore,Monitor,8,8254,66032
+28-01-2024,Ritika Sharma,East,Bihar,Patna,Mobile Phone,4,13474,53896
+19-05-2024,Rohit Jain,East,Odisha,Bhubaneswar,Mobile Phone,8,14909,119272
+12-12-2024,Priya Sharma,South,Karnataka,Bangalore,Printer,5,8779,43895
+05-11-2024,Neha Verma,North,Uttar Pradesh,Lucknow,Monitor,7,8825,61775
+26-05-2024,Divya Joshi,East,Bihar,Patna,Mobile Phone,3,15383,46149
+12-01-2024,Sachin Desai,East,West Bengal,Kolkata,Monitor,6,9425,56550
+08-05-2024,Amit Patel,North,Uttar Pradesh,Lucknow,Laptop,6,46031,276186
+22-01-2024,Asha Nair,North,Delhi,New Delhi,Mobile Phone,8,15780,126240
+20-04-2024,Manoj Kumar,South,Kerala,Kochi,Mobile Phone,2,15617,31234
+19-12-2024,Amit Patel,South,Tamil Nadu,Chennai,Mobile Phone,7,14431,101017
+08-08-2024,Sachin Desai,North,Uttar Pradesh,Lucknow,Laptop,6,46525,279150
+11-04-2024,Priya Sharma,East,Odisha,Bhubaneswar,Tablet,8,22808,182464
+29-02-2024,Ritika Sharma,East,Odisha,Bhubaneswar,Laptop,10,56456,564560
+21-03-2024,Deepak Thakur,West,Maharashtra,Pune,Headphones,5,2483,12415
+05-10-2024,Ritika Sharma,East,Odisha,Bhubaneswar,Monitor,6,9998,59988
+15-08-2024,Priya Sharma,North,Uttar Pradesh,Lucknow,Laptop,2,46906,93812
+28-06-2024,Deepak Thakur,East,Bihar,Patna,Printer,5,8766,43830
+22-10-2024,Rohit Jain,South,Tamil Nadu,Chennai,Printer,8,9278,74224
+19-08-2024,Amit Patel,East,West Bengal,Kolkata,Tablet,5,19350,96750
+04-06-2024,Rohit Jain,North,Uttar Pradesh,Lucknow,Mobile Phone,9,14468,130212
+10-01-2024,Sneha Reddy,East,Odisha,Bhubaneswar,Printer,8,7900,63200
+29-09-2024,Anil Singh,South,Kerala,Kochi,Monitor,10,11385,113850
+29-06-2024,Sachin Desai,South,Kerala,Kochi,Mobile Phone,2,16186,32372
+30-12-2024,Rahul Mehta,North,Punjab,Amritsar,Tablet,3,21021,63063
+28-09-2024,Rohit Jain,East,Odisha,Bhubaneswar,Printer,10,9530,95300
+03-03-2024,Deepak Thakur,West,Maharashtra,Pune,Headphones,7,2257,15799
+26-01-2024,Deepak Thakur,South,Tamil Nadu,Chennai,Printer,1,7032,7032
+30-12-2024,Manoj Kumar,North,Punjab,Amritsar,Tablet,1,18667,18667
+24-03-2024,Amit Patel,West,Maharashtra,Pune,Printer,7,7429,52003
+01-11-2024,Rahul Mehta,South,Tamil Nadu,Chennai,Monitor,3,8558,25674
+09-05-2024,Rohit Jain,East,Bihar,Patna,Tablet,7,18758,131306
+09-04-2024,Ananya Iyer,North,Punjab,Amritsar,Headphones,1,1845,1845
+11-09-2024,Divya Joshi,North,Uttar Pradesh,Lucknow,Headphones,10,2108,21080
+31-01-2024,Asha Nair,North,Punjab,Amritsar,Laptop,4,50220,200880
+27-09-2024,Asha Nair,South,Kerala,Kochi,Printer,3,9665,28995
+15-02-2024,Ritika Sharma,North,Uttar Pradesh,Lucknow,Headphones,9,2823,25407
+02-11-2024,Asha Nair,East,West Bengal,Kolkata,Tablet,5,22570,112850
+21-03-2024,Anil Singh,South,Kerala,Kochi,Headphones,1,2524,2524
+25-03-2024,Karan Malhotra,South,Kerala,Kochi,Printer,10,9770,97700
+18-12-2024,Anil Singh,West,Maharashtra,Pune,Tablet,10,19875,198750
+26-02-2024,Rohit Jain,South,Tamil Nadu,Chennai,Laptop,2,54560,109120
+01-02-2024,Karan Malhotra,North,Uttar Pradesh,Lucknow,Printer,6,7817,46902
+06-01-2024,Ritika Sharma,South,Kerala,Kochi,Tablet,5,23023,115115
+13-06-2024,Manoj Kumar,South,Tamil Nadu,Chennai,Mobile Phone,6,12663,75978
+15-08-2024,Asha Nair,South,Karnataka,Bangalore,Monitor,5,11193,55965
+15-03-2024,Ananya Iyer,North,Punjab,Amritsar,Laptop,10,53066,530660
+17-09-2024,Deepak Thakur,West,Gujarat,Ahmedabad,Laptop,10,57257,572570
+21-09-2024,Karan Malhotra,North,Uttar Pradesh,Lucknow,Monitor,3,11547,34641
+24-12-2024,Sneha Reddy,East,Bihar,Patna,Printer,4,9049,36196
+12-07-2024,Deepak Thakur,West,Maharashtra,Mumbai,Laptop,2,46142,92284
+14-08-2024,Asha Nair,North,Delhi,New Delhi,Mobile Phone,10,16801,168010
+28-11-2024,Priya Sharma,West,Maharashtra,Pune,Tablet,2,22018,44036
+08-02-2024,Ananya Iyer,West,Maharashtra,Mumbai,Laptop,5,59987,299935
+02-06-2024,Asha Nair,East,Bihar,Patna,Monitor,5,8739,43695
+19-04-2024,Sachin Desai,West,Maharashtra,Pune,Monitor,8,8489,67912
+01-07-2024,Deepak Thakur,West,Rajasthan,Jaipur,Printer,5,7145,35725
+05-01-2024,Neha Verma,East,Bihar,Patna,Mobile Phone,2,12312,24624
+19-03-2024,Rahul Mehta,West,Rajasthan,Jaipur,Printer,3,7559,22677
+02-05-2024,Sachin Desai,West,Gujarat,Ahmedabad,Monitor,6,8472,50832
+25-08-2024,Sachin Desai,South,Tamil Nadu,Chennai,Mobile Phone,7,12563,87941
+01-05-2024,Priya Sharma,South,Kerala,Kochi,Laptop,6,55366,332196
+08-09-2024,Deepak Thakur,South,Tamil Nadu,Chennai,Headphones,4,2765,11060
+13-05-2024,Deepak Thakur,South,Kerala,Kochi,Mobile Phone,8,16193,129544
+26-01-2024,Ananya Iyer,East,Bihar,Patna,Mobile Phone,7,17411,121877
+05-11-2024,Neha Verma,West,Maharashtra,Pune,Laptop,9,45069,405621
+14-04-2024,Sachin Desai,North,Punjab,Amritsar,Printer,6,8601,51606
+21-10-2024,Ritika Sharma,South,Tamil Nadu,Chennai,Mobile Phone,2,15814,31628
+02-08-2024,Karan Malhotra,East,Odisha,Bhubaneswar,Printer,5,9082,45410
+19-07-2024,Karan Malhotra,South,Karnataka,Bangalore,Printer,2,7046,14092
+19-09-2024,Asha Nair,West,Maharashtra,Mumbai,Printer,6,7959,47754
+27-01-2024,Deepak Thakur,North,Punjab,Amritsar,Monitor,9,9776,87984
+26-08-2024,Ritika Sharma,South,Tamil Nadu,Chennai,Tablet,9,19623,176607
+29-09-2024,Amit Patel,East,Odisha,Bhubaneswar,Headphones,2,1549,3098
+08-01-2024,Manoj Kumar,North,Delhi,New Delhi,Printer,3,8838,26514
+12-07-2024,Ananya Iyer,West,Maharashtra,Pune,Laptop,5,51862,259310
+07-10-2024,Sachin Desai,East,West Bengal,Kolkata,Headphones,10,2915,29150
