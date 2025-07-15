@@ -25,8 +25,8 @@ This project presents an interactive **Microsoft Excel dashboard** built from ra
 
 ## 📁 Files Included
 
-* `sales_report_2024_100_rows.csv` – Simulated raw sales data  
-* `Sales_Dashboard.xlsx` – Final interactive Excel dashboard  
+* `sales_report_2024_row_data.csv` – Simulated raw sales data  
+* `Sales_Dashboard.xlsm` – Final interactive Excel dashboard  
 * `Dashboard_Screen_Recording.mp4` – Short demo video  
 * `README.md` – This documentation file  
 
